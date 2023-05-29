@@ -1,0 +1,29 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-05-29T07:55:00Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:ajft"
+    },
+    {
+      "Claim": "mdon:@ajft@aus.social"
+    },
+    {
+      "Claim": "yt:@adriantritschler"
+    },
+    {
+      "Claim": "pat:ajft"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "79b35c2e789d3f48797d3c1c",
+    "Timestamp": "2023-05-29T08:05:10Z",
+    "Signature": "942c5a6bc5fedb045bf2fa3348e7434b9c473a5813bc0fd2f20dc4cd0ddffd6150b930d3281e336d82bfceb94a7d22410208e7e39b75f263048d2da7624c14a8027b05800c7728f37302810d1e2a16739220f45f6fbc3f278e7975808da63802f2acd21f280d5140a2549a0b3cde50b3a0c55b2a1d02312ad975c8f157d7719077f6644562852bcd4880abc1b519e96ad069a069f43844f82c4ec827e243f06ed1a18019fc1efa9e356cbff8e93934e037cd44e29134fa74be093d943283eeee0bc144486d53198883e93656caf4fd25da02ec7ea0aa71c2a81d4e3786b3b7a1c8916f46e03d0bd14d348862f122498d6d75056cfd8929b6f320a79a99a5fae3"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "c8a9765371287eea2ff4ca37a9bb153d64654ac64c3f13777d5dc1be68bcc6f5",
+  "ContentToHash": "v1|gh:ajft,mdon:@ajft@aus.social,pat:ajft,yt:@adriantritschler|2023-05-29T07:55:00Z"
+}
